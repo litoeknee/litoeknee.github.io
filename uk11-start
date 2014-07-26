@@ -25,12 +25,28 @@
 	</div>
 <div id="md" style="display: none;">
 <!-- markdown -->
+这是一个普通段落。
 
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
+这是另一个普通段落。
 <!-- markdown end -->
 </div>
 <div class="entry" id="main">
 <!-- content -->
+<p>这是一个普通段落。</p>
 
+<table>
+    <tbody><tr>
+        <td>Foo</td>
+    </tr>
+</tbody></table>
+
+<p>这是另一个普通段落。</p>
 <!-- content end -->
 </div>
 <br>
